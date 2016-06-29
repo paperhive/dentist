@@ -1,6 +1,6 @@
 {
   "name": "dentist",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS string dedenting module – make your template strings look nice!",
   "main": "dist/index.js",
   "scripts": {
